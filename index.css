@@ -71,6 +71,10 @@ a {
   max-width: 75%;
 }
 
+.icon-formatting {
+  font-size: 1.5em;
+  display:inline-block;
+}
 
 /* ----- LINKS ----- */
 
